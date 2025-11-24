@@ -12,6 +12,8 @@
 ## Kontak
 - 💼 LinkedIn : [https://www.linkedin.com/in/egha-arya/](https://www.linkedin.com/in/egha-arya/)  
 
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
